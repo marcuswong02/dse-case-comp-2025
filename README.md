@@ -1,4 +1,4 @@
-# NUS-DSESC-Case-Competition
+# NUS DSESC Case Competition
 
 ## Dataset Handling Guidelines
 - The dataset is strictly for the purpose of this competition and should not be used for any other purposes.

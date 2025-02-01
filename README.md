@@ -15,7 +15,7 @@
 
 ## Submission Instructions
 
-1. Rename the submission notebook as "NUS_DSESC_CASE_COMP_\<TEAM NAME\>.ipynb". For example, if your team name is "TEAM1", your submission notebook should be named as "NUS_DSESC_CASE_COMP_TEAM1.ipynb". \
+1. Rename the submission notebook as "NUS_DSESC_DATABUSTERS_XX.ipynb". For example, if your team name is "TEAM 01", your submission notebook should be named as "NUS_DSESC_DATABUSTERS_01.ipynb". \
 The notebook already contains a template function, named `testing_hidden_data`, to take in the test data and output the predictions. You are to fill in the function with your model and any preprocessing function that you may have. \
 Note: Each team should only submit one notebook and the notebook should be in the `master` branch.
 
